@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: Gaofeng Pan 潘高锋
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: pan gao feng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Gaofeng
+last_name: Pan
 
 # Status emoji
-status:
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Undergrad student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Zhengzhou University
+    url: https://www.zzu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
